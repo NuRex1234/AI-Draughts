@@ -12,7 +12,7 @@ from Graphics import draw_circle
 # some changes
 
 
-
+# ciekawy komentarz
 # The Board class keeps the state of the game at a given time. It's most important fields are: whites (a list of all the white pawns on the board), blacks (a list of all the black pawns on the board), world (a two-dimentional list, representing the board. Each field is either null (if there is no piece standing there) or it points to a piece which stands at a given place).
 # Therefore, we have a double information about each piece
 
